@@ -217,7 +217,7 @@ header {
   background-image: url(https://helbiz.com/asset/pages/newhome/images/ScooterHelbiz-2400.jpg);background-size:contain;
   background-position: center;
   background-repeat: no-repeat;
-  
+
 
   position: relative;
 }
@@ -252,8 +252,14 @@ header {
   background-position: center;
   background-repeat: no-repeat;
   text-align: center;***/
-
-
+  background-color: black;
+  position: relative;
+}
+.getapp img{
+  display: inline-block;
+ position: absolute;
+ bottom: 0px;
+ left: 100px;
 }
 .findus{
   background-color: black;
